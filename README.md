@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shahid Khan</h1>
-<h3 align="center">Software Engineer | .NET Developer | Backend & SaaS Enthusiast</h3>
+<h1 align="center">Shahid Khan</h1>
+<h3 align="center">Computer Engineer | .NET & Laravel Developer | Backend & SaaS Enthusiast</h3>
 
 <p align="center">
 Passionate software developer from Pakistan 🇵🇰 specializing in 
@@ -27,6 +27,8 @@ Currently focused on building enterprise-grade SaaS solutions and mastering the 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 
 ### **Databases & Tools**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -54,7 +56,8 @@ A powerful **multi-tenant SaaS platform** built with **ASP.NET Core 8 MVC**, des
 - 📊 Analytics Dashboard with Chart.js
 - 🔗 Meta Cloud API Webhook Integration
 
----
+- **[Trainee Management Portal (Laravel 12)](#)**
+A comprehensive multi-role institutional management system. Features include tenant data isolation, dynamic Chart.js analytics, CNIC input masking, and automated reporting.
 
 ## 📈 GitHub Analytics
 
@@ -70,6 +73,7 @@ A powerful **multi-tenant SaaS platform** built with **ASP.NET Core 8 MVC**, des
 <a href="https://linkedin.com/in/shahid-khan-818b51309" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+  <a>[Email](mailto:shahidkhannasar364@gmail.com)</a>
 </p>
 
 ---
