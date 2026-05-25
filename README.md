@@ -2,16 +2,16 @@
 <h3 align="center">Computer Engineer | .NET & Laravel Developer | Backend & SaaS Enthusiast</h3>
 
 <p align="center">
-Passionate software developer from Pakistan 🇵🇰 specializing in 
+Passionate Computer developer from Pakistan 🇵🇰 specializing in 
 <strong>.NET development, scalable backend systems, and modern web applications.</strong>  
-Currently focused on building enterprise-grade SaaS solutions and mastering the .NET ecosystem.
+Currently focused on building enterprise-grade SaaS solutions and mastering the .NET & Laravel ecosystem.
 </p>
 
 ---
 
 ## About Me
 
-- 💻 Software Engineer with focus on **Backend Development & System Design**
+- 💻 Computer Engineer with focus on **Backend Development & System Design**
 - ⚡ Building **scalable and maintainable web applications**
 - 🌱 Currently exploring **Advanced .NET & SaaS Architectures**
 - 🎯 Passionate about **Problem Solving & Clean Code**
